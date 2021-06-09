@@ -1,0 +1,24 @@
+De todos os jogos disponíveis em nossa biblioteca de jogos de PC,
+são elegíveis os jogos relacionados abaixo 
+respeitando o limite máximo estipulado de 15 jogos e
+a capacidades do dispositivo do cliente:
+
+
+PC			CAP 1024GB
+
+JOGO					PESO (GB)
+
+1  Assassin's Creed Valhalla		50,000
+2  DiRT 5 				64,000
+3  Shadow of the Tomb Raider		24,800
+4  Doom Eternal 			77,000
+5  Cyberpunk 2077 			70,000
+6  Half-Life Alyx 			67,000
+7  Call of Duty: Black Ops Cold War 	125,000
+8  FIFA 21 				50,000
+9  Microsoft Flight Simulator 		150,000
+10 Watch Dogs Legión			45,000
+11 The Witcher III: Wild Hunt		48,000
+12 Deus Ex: Mankind Divided		46,000
+13 Marvel's Avengers 			90,000
+		TOTAL APROX.		906,800
