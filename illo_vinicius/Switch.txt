@@ -1,0 +1,20 @@
+De todos os jogos disponíveis em nossa biblioteca de jogos de Nintendo Switch,são elegíveis os jogos relacionados abaixo respeitando o limite máximo estipulado de 15 jogos e a capacidades do dispositivo do cliente:
+
+NINTENDO SWITCH	CAPACIDADE - 32GB
+
+JOGO - PESO (GB)
+1  Mario Kart 8 Deluxe - 7
+3  Disgaea 5 - 5,92
+6  Nobunaga’s Ambition - 5
+10 Cuphead - 3,3
+12 Inferno Climber: Reborn - 1,7
+2  Snipperclips: Cut it Out, Together - 1,6
+7  Air Conflicts: Secret Wars - 1,5
+5  I Am Setsuna	- 1,4
+8  Air Conflicts: Pacific Carriers - 1,4
+4  Tetris  - 1,09
+11 Gems of War - 0,458
+13 Istanbul: Digital Edition - 0,33
+9  Block-a-Pix Deluxe - 0,084
+TOTAL = 30,782	
+

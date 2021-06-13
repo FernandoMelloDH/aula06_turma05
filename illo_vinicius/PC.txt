@@ -1,0 +1,20 @@
+De todos os jogos disponíveis em nossa biblioteca de jogos de PC,são elegíveis os jogos relacionados abaixo respeitando o limite máximo estipulado de 15 jogos e a capacidades do dispositivo do cliente:
+
+
+PC CAPACIDADE: 1 GB
+
+JOGO - PESO (GB)
+9  Microsoft Flight Simulator - 150
+7  Call of Duty: Black Ops Cold War - 125
+13 Marvel's Avengers - 90
+4  Doom Eternal  - 77
+5  Cyberpunk 2077 - 70
+6  Half-Life Alyx - 67
+2  DiRT 5 - 64
+1  Assassin's Creed Valhalla - 50
+8  FIFA 21 - 50
+11 The Witcher III: Wild Hunt - 48
+12 Deus Ex: Mankind Divided - 46
+10 Watch Dogs Legión - 45
+3  Shadow of the Tomb Raider - 24,8
+TOTAL=906,800

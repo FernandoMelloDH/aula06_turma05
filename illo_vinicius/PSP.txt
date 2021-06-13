@@ -1,0 +1,19 @@
+De todos os jogos disponíveis em nossa biblioteca de jogos de PSP,são elegíveis os jogos relacionados abaixo respeitando o limite máximo estipulado de 15 jogos e a capacidades do dispositivo do cliente:
+
+
+
+PSP CAPACIDADE -6GB
+
+JOGO - 	PESO (GB)
+9  PES 2013 -	0,975
+5  CRASH TAG TEAM RACING - 0,834
+4  Motorstorm Artic Edge - 0,752
+3  Burnout Dominator - 0,682
+7  METAL SLUG ANTHOLOGY - 0,663
+1  Driver - 0,491
+8  Resident Evil 3 Nemesis - 0,363
+2  Need For Speed Carbon - 0,121
+11 Street Fighter 3 Alpha Max -	0,078
+10 Coded Arms -	0,049
+6  PLANTS VS ZOMBIES - 0,002
+TOTAL = 5,1	
