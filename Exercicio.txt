@@ -1,0 +1,78 @@
+FERNANDO LUIZ LOPES CARVALHO
+
+1- Nosso grupo de amigos comprou um PS4 com disco de 256 GB e queremos instalar o máximo de jogos possível
+de uma lista de 15 jogos que reunimos. Selecione 15 jogos que somados, alcançam o valor máximo disponível
+em disco.
+
+Espaço em disco = 256 GB
+
+1 Resogun = 460.800 KB = 450 MB
+2 Don't Starve = 609 MB
+
+PARCIAL ESPAÇO USADO = 1,03 GB
+
+3 Trine 2: Complete Story = 2.760 MB = 2,69 GB
+4 Bound By Flame = 5.200 MB = 5,07 GB
+5 Flower 18.000 MB =  17,57 GB
+6 Assassin's Creed IV: Black Flag = 21,2 GB
+6 InFAMOUS: Second Son = 24 GB
+7 DriveClub = 28,86 GB
+8 Knack = 35,6 GB
+9 MLB 14 The Show = 37,5 GB
+10 Killzone: Shadow Fall SP = 38,5 GB
+11 Battlefield 4 = 41,85 GB
+
+TOTAL DE JOGOS = 11
+TOTAL DE ESPAÇO USADO = 253,87 GB
+ESPAÇO DISPONÍVEL = 2,13 GB
+*Foi utilizado apenas 2 digitos após a virgula na transformação das unidades de medida.
+
+2- Nosso grupo de amigos comprou um Nintendo Switch com um disco de 32GB e queremos instalar o máximo de
+jogos possível de uma lista de 15 jogos que montamos. Selecione 15 jogos que somados, alcançam o valor
+máximo disponível em disco.
+
+Espaço em disco = 256 GB
+
+1 Block-a-Pix Deluxe = 84,0 MB
+2 Istanbul: Digital Edition  = 330 MB
+3 Gems of War  = 458 MB
+
+PARCIAL ESPAÇO USADO = 0,85 GB
+
+4 Tetris  = 1,09 GB
+5 I Am Setsuna = 1,40 GB
+6 Air Conflicts: Pacific Carriers = 1,4 GB
+7 Air Conflicts: Secret Wars = 1,5 GB
+8 Snipperclips: Cut it Out, Together = 1,60 GB
+9 Inferno Climber: Reborn  = 1,7 GB
+10 Cuphead  = 3,3 GB
+11 Nobunaga’s Ambition = 5 GB
+12 Disgaea 5 = 5,92 GB
+13 Mario Kart 8 Deluxe = 7 GB
+
+TOTAL DE JOGOS = 13
+TOTAL DE ESPAÇO USADO = 30,76 GB
+ESPAÇO DISPONÍVEL = 1,24 GB
+
+
+3-Nosso grupo de amigos comprou um PSP com um disco de 6GB e queremos instalar o máximo de jogos possível
+de uma lista de 15 jogos que reunimos. Selecione 15 jogos que somados, alcançam o valor máximo disponível
+em disco.
+
+Espaço em disco = 6 GB = 6144 MB
+
+1 PLANTS VS ZOMBIES = 2 MB
+2 Coded Arms = 49,8 MB 
+3 Street Fighter 3 Alpha Max = 78,2 MB 
+4 Resident Evil 3 Nemesis = 363 Mb 
+5 Driver = 491,4 MB 
+6 METAL SLUG ANTHOLOGY = 663 MB 
+7 Burnout Dominator = 682 MB
+8 Motorstorm Artic Edge = 752 MB
+9 CRASH TAG TEAM RACING = 834 MB
+10 PES 2013 = 975 MB
+11 FIFA 12 = 1,21 GB = 1239,04 MB
+
+TOTAL DE JOGOS = 11
+TOTAL DE ESPAÇO USADO = 6129,44 MB = 5,98 GB
+ESPAÇO DISPONÍVEL = 14,56 MB
